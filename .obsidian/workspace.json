@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1dd7f73c2d5daf9e",
+        "id": "76f16dca941df4bf",
         "type": "tabs",
         "children": [
           {
-            "id": "399e3273979683f6",
+            "id": "a0e58c4f9c31dd26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2bccd937677cbfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hot Topics in DN/Main Page HOT topics in DN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbcad4e02b956413",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning in Cybersecurity/Main Page - ML IN CYSEC.md",
+                "file": "Human-Computer_Interaction/HCI LECTURE 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hot Topics in DN/Main Page HOT topics in DN.md",
+                "file": "Human-Computer_Interaction/HCI LECTURE 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hot Topics in DN/Main Page HOT topics in DN.md",
+                "file": "Human-Computer_Interaction/HCI LECTURE 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hot Topics in DN/Main Page HOT topics in DN.md"
+                "file": "Human-Computer_Interaction/HCI LECTURE 1.md"
               }
             }
           }
@@ -171,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2bccd937677cbfb",
+  "active": "a0e58c4f9c31dd26",
   "lastOpenFiles": [
-    "Formal Methods In Security/Main Page - Formal methods.md",
-    "Machine Learning in Cybersecurity/Main Page - ML IN CYSEC.md",
-    "HCI LECTURE 1.md",
     "Human-Computer_Interaction/HCI MAIN PAGE.md",
+    "Human-Computer_Interaction/HCI LECTURE 1.md",
+    "README.md",
     "Hot Topics in DN/Main Page HOT topics in DN.md",
-    "README.md"
+    "Formal Methods In Security/Main Page - Formal methods.md",
+    "Machine Learning in Cybersecurity/Main Page - ML IN CYSEC.md"
   ]
 }
