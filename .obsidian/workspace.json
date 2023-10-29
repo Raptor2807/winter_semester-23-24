@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formal Methods In Security/Main Page - Formal methods.md",
+                "file": "Hot Topics in DN/Main Page HOT topics in DN.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "32fd1db506c10af4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hot Topics in DN/Main Page HOT topics in DN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,11 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec690ce0b92f1315",
+  "active": "f2bccd937677cbfb",
   "lastOpenFiles": [
-    "Machine Learning in Cybersecurity/Main Page - ML IN CYSEC.md",
-    "Hot Topics in DN/Main Page HOT topics in DN.md",
     "Formal Methods In Security/Main Page - Formal methods.md",
+    "Machine Learning in Cybersecurity/Main Page - ML IN CYSEC.md",
+    "HCI LECTURE 1.md",
+    "Human-Computer_Interaction/HCI MAIN PAGE.md",
+    "Hot Topics in DN/Main Page HOT topics in DN.md",
     "README.md"
   ]
 }
