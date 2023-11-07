@@ -1,0 +1,4 @@
+- One of the most popular approach to formally verify systems which follows this principle is called Model Checking. 
+	- Using this technique, a model of the system is used to verify that some given property hold. Numerous methods and algorithms have been proposed to perform model checking.
+	- The most important advantage of the model checking technique to verify a system, is that in most cases it is fully automatic and that if the verifier finds out that the property does not hold for the system under validation it will also return a counterexample showing specific input to the system that invalidates the property
+	- However, the model checking approach suffers from the [[State Space Explosion]] problem and it does not scale easily to complex systems.

@@ -1,0 +1,7 @@
+- For short we use *LTS* 
+- We start by presenting the definition of an LTS from process algebra. In Process algebra an LTS is a triple of system states or processes, a list of actions or labels and a transition relation.
+- A Labelled transition system is a triple(Σ,  𝔸, →)
+	-  Σ :- Is the set of processes or states
+	- 𝔸 :- Is the set of atomic actions (ϵ ∈ 𝔸)
+		- Actions can be parameterized a(d)
+	- →:- is ⊆ Σ × 𝔸 × Σ ; is a transition relation.

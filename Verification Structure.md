@@ -1,0 +1,7 @@
+- We depict an application schema of formal methods in below mentioned figure, in which the artifacts and techniques are identified.
+- ![[Pasted image 20231107143134.png]]
+- 1: Formal specification normally uses a language with a rigorous syntax and semantics to give a precise description of the system and its desired properties.
+- 2: Informal requirements may be translated into properties of the system specification.
+- 3: The system specification would further have formal description of system behavior, which is translated from the informal design.
+- 4:  Formal specification can be used to validate the completeness and accuracy of the system requirements and to guide subsequent development activities. 
+-  Formal specification can be used to validate the completeness and accuracy of the system requirements and to guide subsequent development activities. 

@@ -1,0 +1,4 @@
+- State-space explosion also known as a combinatoric explosion is the rapid growth of the complexity of a problem due to how the combinatorics of the problem is affected by the input, constraints, and bounds of the problem. 
+- This makes the use of model checkers to verify complex systems like Operating systems and processors model almost impossible. 
+- One way to overcome this restriction is to use the classical principle of divide-and-conquer for the verification of large scale systems. As we will see in this series of lectures there are 3 main techniques that we have to use in practice to facilitate verification of large systems. 
+- These techniques are called: [[abstraction]], [[decomposition]] and [[refinement]].
