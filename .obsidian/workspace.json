@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4d434f891c37f8b9",
@@ -140,18 +139,18 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a0e58c4f9c31dd26",
+  "active": "ec690ce0b92f1315",
   "lastOpenFiles": [
-    "Labelled Transition System.md",
+    "Formal Methods In Security/Labelled Transition System.md",
     "Formal Methods In Security/Formal Methods Lecture 1 - Introduction.md",
-    "Verification Structure.md",
-    "Pasted image 20231107143134.png",
-    "Model Checking.md",
-    "State Space Explosion.md",
-    "decomposition.md",
-    "Pasted image 20231103115006.png",
-    "Pasted image 20231103114851.png",
-    "Pasted image 20231103112423.png",
+    "Formal Methods In Security/Verification Structure.md",
+    "Formal Methods In Security/Pasted image 20231107143134.png",
+    "Formal Methods In Security/Model Checking.md",
+    "Formal Methods In Security/State Space Explosion.md",
+    "Formal Methods In Security/decomposition.md",
+    "Formal Methods In Security/Pasted image 20231103115006.png",
+    "Formal Methods In Security/Pasted image 20231103114851.png",
+    "Formal Methods In Security/Pasted image 20231103112423.png",
     "Machine Learning in Cybersecurity/Main Page - ML IN CYSEC.md",
     "Human-Computer_Interaction/HCI LECTURE 1.md",
     "Formal Methods In Security/Main Page - Formal methods.md",
