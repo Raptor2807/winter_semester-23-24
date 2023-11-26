@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "76f16dca941df4bf",
+        "id": "f861ca5e9e1f80ea",
         "type": "tabs",
         "children": [
           {
-            "id": "a0e58c4f9c31dd26",
+            "id": "e1abf09ad6965fcc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hot Topics in DN/How to read a paper.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4d434f891c37f8b9",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hot Topics in DN/How to read a paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hot Topics in DN/How to read a paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hot Topics in DN/How to read a paper.md"
+              }
             }
           }
         ]
@@ -139,10 +149,28 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ec690ce0b92f1315",
+  "active": "e1abf09ad6965fcc",
   "lastOpenFiles": [
+    "Hot Topics in DN/How to read a paper.md",
+    "Hot Topics in DN/Main Page HOT topics in DN.md",
+    "Human-Computer_Interaction/Project phase 1.md",
+    "Human-Computer_Interaction/HCI MAIN PAGE.md",
+    "Human-Computer_Interaction/HCI LECTURE 1.md",
+    "Mobile Security/Lecture 2 Android Basics.md",
+    "Human-Computer_Interaction/TUT 1.md",
+    "Mobile Security/USB CDC ACM interface.md",
+    "Mobile Security/Mobile Security Index.md",
+    "Mobile Security/Lecture 1 - Mobile Security Introduction.md",
+    "Pasted image 20231117170217.png",
     "Formal Methods In Security/Labelled Transition System.md",
+    "2023-11-10.md",
+    "Difference between package manifest vs application manifest.md",
+    "Package manifest not to be mistaken with the application manifest.md",
+    "Pasted image 20231110131852.png",
+    "Pasted image 20231110111023.png",
+    "Pasted image 20231110110940.png",
     "Formal Methods In Security/Formal Methods Lecture 1 - Introduction.md",
+    "MODELING.md",
     "Formal Methods In Security/Verification Structure.md",
     "Formal Methods In Security/Pasted image 20231107143134.png",
     "Formal Methods In Security/Model Checking.md",
@@ -152,10 +180,7 @@
     "Formal Methods In Security/Pasted image 20231103114851.png",
     "Formal Methods In Security/Pasted image 20231103112423.png",
     "Machine Learning in Cybersecurity/Main Page - ML IN CYSEC.md",
-    "Human-Computer_Interaction/HCI LECTURE 1.md",
     "Formal Methods In Security/Main Page - Formal methods.md",
-    "Human-Computer_Interaction/HCI MAIN PAGE.md",
-    "README.md",
-    "Hot Topics in DN/Main Page HOT topics in DN.md"
+    "README.md"
   ]
 }

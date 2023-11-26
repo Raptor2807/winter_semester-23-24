@@ -16,3 +16,5 @@ Student Places: 20
 - End of semester: 31.03.2024
 
 Thus, in total, there are 14 weeks and the following schedule provides you with the essential deadlines. Exact dates can be subject to change.
+
+[[How to read a paper]] 

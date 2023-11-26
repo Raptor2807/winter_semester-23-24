@@ -20,3 +20,8 @@
 ### Lecture Notes
 
 - 1 : [[HCI LECTURE 1]]
+### Tut
+- 1 : [[TUT 1]] 
+### Assignments
+	[[Project phase 1]] 
+	- 
