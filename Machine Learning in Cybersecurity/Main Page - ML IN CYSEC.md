@@ -10,3 +10,5 @@ The course explores in-depth both of these sides to Machine Learning and Cyber S
 - Defenses for ML
 - ML and Privacy
 - Security of Large Language Models
+### LECTURE NOTES
+[[Introduction lecture]] 

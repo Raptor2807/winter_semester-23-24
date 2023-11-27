@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f861ca5e9e1f80ea",
+        "id": "e58824e32411ad8f",
         "type": "tabs",
         "children": [
           {
-            "id": "e1abf09ad6965fcc",
+            "id": "f804728295065ab3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hot Topics in DN/How to read a paper.md",
+                "file": "Machine Learning in Cybersecurity/Introduction lecture.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4d434f891c37f8b9",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hot Topics in DN/How to read a paper.md",
+                "file": "Machine Learning in Cybersecurity/Introduction lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hot Topics in DN/How to read a paper.md",
+                "file": "Machine Learning in Cybersecurity/Introduction lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hot Topics in DN/How to read a paper.md"
+                "file": "Machine Learning in Cybersecurity/Introduction lecture.md"
               }
             }
           }
@@ -149,8 +148,18 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e1abf09ad6965fcc",
+  "active": "ec690ce0b92f1315",
   "lastOpenFiles": [
+    "Pasted image 20231127151326.png",
+    "Pasted image 20231127150948.png",
+    "Pasted image 20231127150855.png",
+    "Pasted image 20231127150838.png",
+    "Pasted image 20231127121619.png",
+    "Machine Learning in Cybersecurity/Model Poisoning.md",
+    "Machine Learning in Cybersecurity/Introduction lecture.md",
+    "Machine Learning in Cybersecurity/Evasion attacks.md",
+    "Machine Learning in Cybersecurity/Adversarial Perturbations.md",
+    "Machine Learning in Cybersecurity/Main Page - ML IN CYSEC.md",
     "Hot Topics in DN/How to read a paper.md",
     "Hot Topics in DN/Main Page HOT topics in DN.md",
     "Human-Computer_Interaction/Project phase 1.md",
@@ -164,8 +173,8 @@
     "Pasted image 20231117170217.png",
     "Formal Methods In Security/Labelled Transition System.md",
     "2023-11-10.md",
-    "Difference between package manifest vs application manifest.md",
-    "Package manifest not to be mistaken with the application manifest.md",
+    "Machine Learning in Cybersecurity/Difference between package manifest vs application manifest.md",
+    "Mobile Security/Package manifest not to be mistaken with the application manifest.md",
     "Pasted image 20231110131852.png",
     "Pasted image 20231110111023.png",
     "Pasted image 20231110110940.png",
@@ -176,11 +185,6 @@
     "Formal Methods In Security/Model Checking.md",
     "Formal Methods In Security/State Space Explosion.md",
     "Formal Methods In Security/decomposition.md",
-    "Formal Methods In Security/Pasted image 20231103115006.png",
-    "Formal Methods In Security/Pasted image 20231103114851.png",
-    "Formal Methods In Security/Pasted image 20231103112423.png",
-    "Machine Learning in Cybersecurity/Main Page - ML IN CYSEC.md",
-    "Formal Methods In Security/Main Page - Formal methods.md",
-    "README.md"
+    "Formal Methods In Security/Pasted image 20231103115006.png"
   ]
 }
