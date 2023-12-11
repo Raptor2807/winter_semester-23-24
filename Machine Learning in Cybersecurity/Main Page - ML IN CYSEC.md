@@ -12,3 +12,4 @@ The course explores in-depth both of these sides to Machine Learning and Cyber S
 - Security of Large Language Models
 ### LECTURE NOTES
 [[Introduction lecture]] 
+[[Machine Learning Recap]] 

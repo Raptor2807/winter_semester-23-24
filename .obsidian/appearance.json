@@ -1,4 +1,5 @@
 {
-  "accentColor": "",
-  "textFontFamily": "CMU Serif"
+  "accentColor": "#ff8800",
+  "textFontFamily": "CMU Serif",
+  "cssTheme": "Mammoth"
 }
