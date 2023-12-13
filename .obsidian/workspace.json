@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e58824e32411ad8f",
+        "id": "1d635247b9fd0fb6",
         "type": "tabs",
         "children": [
           {
-            "id": "f804728295065ab3",
+            "id": "180c4ed089f47597",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hot Topics in DN/An overview of potential authentication threats and attacks on Internet of Things(IoT) - A focus on Smart home applications..md",
+                "file": "Machine Learning in Cybersecurity/Machine Learning Recap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hot Topics in DN/An overview of potential authentication threats and attacks on Internet of Things(IoT) - A focus on Smart home applications..md",
+                "file": "Machine Learning in Cybersecurity/Machine Learning Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hot Topics in DN/An overview of potential authentication threats and attacks on Internet of Things(IoT) - A focus on Smart home applications..md",
+                "file": "Machine Learning in Cybersecurity/Machine Learning Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hot Topics in DN/An overview of potential authentication threats and attacks on Internet of Things(IoT) - A focus on Smart home applications..md"
+                "file": "Machine Learning in Cybersecurity/Machine Learning Recap.md"
               }
             }
           }
@@ -150,10 +150,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f804728295065ab3",
+  "active": "180c4ed089f47597",
   "lastOpenFiles": [
-    "Hot Topics in DN/A Deep Learning Approach to IoT Authentication.md",
+    "Machine Learning in Cybersecurity/Main Page - ML IN CYSEC.md",
     "Hot Topics in DN/An overview of potential authentication threats and attacks on Internet of Things(IoT) - A focus on Smart home applications..md",
+    "Hot Topics in DN/Paper Planning.md",
+    "Hot Topics in DN/A Deep Learning Approach to IoT Authentication.md",
     "Hot Topics in DN/Rethinking Access Control and Authentication for the Home Internet of Things (IoT).md",
     "Hot Topics in DN/Your Smart Home Can’t Keep a Secret - Towards Automated Fingerprinting of IoT Traffic.md",
     "Pasted image 20231211113552.png",
@@ -165,7 +167,6 @@
     "Hot Topics in DN/How to read a paper.md",
     "Machine Learning in Cybersecurity/Machine Learning Recap.md",
     "Pasted image 20231128123723.png",
-    "Machine Learning in Cybersecurity/Main Page - ML IN CYSEC.md",
     "Machine Learning in Cybersecurity/Introduction lecture.md",
     "Pasted image 20231127151326.png",
     "Pasted image 20231127150948.png",
@@ -186,7 +187,6 @@
     "2023-11-10.md",
     "Machine Learning in Cybersecurity/Difference between package manifest vs application manifest.md",
     "Mobile Security/Package manifest not to be mistaken with the application manifest.md",
-    "Formal Methods In Security/Formal Methods Lecture 1 - Introduction.md",
-    "MODELING.md"
+    "Formal Methods In Security/Formal Methods Lecture 1 - Introduction.md"
   ]
 }
