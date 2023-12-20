@@ -22,38 +22,39 @@ Contributions should align with the subjects covered during the Winter Semester 
 
 Happy learning and sharing!
 
+# Exam Dates
 
-#exam_dates
-Mobile Security 
-	main : 22,02,2024 - 10-12 E2,2
-	re-exam : 22,03,2024 - 10-12 E1,3
-Hot Topics in DN
-	## Important Dates and Deadlines
+## Mobile Security
+- **Main Exam**: 22nd February 2024, 10:00 AM - 12:00 PM
+- **Re-exam**: 22nd March 2024, 10:00 AM - 12:00 PM
 
-- **25.12.2023 - 01.01.2024**: Lecture free period
-- **09.01.2024**: Deadline: Preferences for peer-review slots - Doodle
-- **15.01.2024 - 19.01.2024**: Peer-review discussions - Groups
-- **22.01.2024 - 26.01.2024**: Deadline: Peer-Review Feedback
-- **29.01.2024 - 02.02.2024**: Deadline: Final version seminar paper
-- **05.02.2024 - 09.02.2024**: Deadline: Seminar Presentation Doodle - Doodle
-- **09.02.2024**: 
-  - Deadline: Draft of the slide deck
+## Hot Topics in DN
+
+### Important Dates and Deadlines
+
+- 25th December 2023 - 1st January 2024: Lecture-free period
+- 9th January 2024: Deadline for Preferences for peer-review slots (Doodle)
+- 15th January 2024 - 19th January 2024: Peer-review discussions (Groups)
+- 22nd January 2024 - 26th January 2024: Deadline for Peer-Review Feedback
+- 29th January 2024 - 2nd February 2024: Deadline for Final version seminar paper
+- 5th February 2024 - 9th February 2024: Deadline for Seminar Presentation Doodle (Doodle)
+- 9th February 2024:
+  - Deadline for Draft of the slide deck
   - End of the lecturing period
-  - Deadline: Final version seminar slides
-  - Block Seminar (3 days block presentations) - Seminar plan
+  - Deadline for Final version seminar slides
+- Block Seminar (3 days block presentations) - Seminar plan
 
 ### Additional Information
 
 - Lecture on how to give a technical presentation - Zoom link and slides (Date TBA)
-- Deadline: Course evaluation - Evaluation Link (Date TBA)
+- Deadline for Course evaluation - Evaluation Link (Date TBA)
 
-_Note: Dates for the first draft seminar paper, the technical presentation lecture, and the course evaluation deadline are to be announced (TBA)._
-#MLSEC
-	main : 15,02,2024 16-19
-	re : 14,03,2024 10-13
-#HCI 
-	main : 19,02,2024 10-11:30
-	re : 18,03,2024 10-11:30
+Note: Dates for the first draft seminar paper, the technical presentation lecture, and the course evaluation deadline are to be announced (TBA).
 
+## MLSEC
+- **Main Exam**: 15th February 2024, 4:00 PM - 7:00 PM
+- **Re-exam**: 14th March 2024, 10:00 AM - 1:00 PM
 
-
+## HCI
+- **Main Exam**: 19th February 2024, 10:00 AM - 11:30 AM
+- **Re-exam**: 18th March 2024, 10:00 AM - 11:30 AM
