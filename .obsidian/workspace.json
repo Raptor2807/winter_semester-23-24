@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1d635247b9fd0fb6",
+        "id": "5b3597079e42e971",
         "type": "tabs",
         "children": [
           {
-            "id": "180c4ed089f47597",
+            "id": "84a13867c9304073",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning in Cybersecurity/Machine Learning Recap.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning in Cybersecurity/Machine Learning Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning in Cybersecurity/Machine Learning Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Machine Learning in Cybersecurity/Machine Learning Recap.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,8 +141,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "180c4ed089f47597",
+  "active": "84a13867c9304073",
   "lastOpenFiles": [
+    "README.md",
+    "Machine Learning in Cybersecurity/Machine Learning Recap.md",
     "Machine Learning in Cybersecurity/Main Page - ML IN CYSEC.md",
     "Hot Topics in DN/An overview of potential authentication threats and attacks on Internet of Things(IoT) - A focus on Smart home applications..md",
     "Hot Topics in DN/Paper Planning.md",
@@ -165,7 +158,6 @@
     "Pasted image 20231211113212.png",
     "Machine Learning in Cybersecurity/Evasion attacks.md",
     "Hot Topics in DN/How to read a paper.md",
-    "Machine Learning in Cybersecurity/Machine Learning Recap.md",
     "Pasted image 20231128123723.png",
     "Machine Learning in Cybersecurity/Introduction lecture.md",
     "Pasted image 20231127151326.png",
@@ -186,7 +178,6 @@
     "Formal Methods In Security/Labelled Transition System.md",
     "2023-11-10.md",
     "Machine Learning in Cybersecurity/Difference between package manifest vs application manifest.md",
-    "Mobile Security/Package manifest not to be mistaken with the application manifest.md",
-    "Formal Methods In Security/Formal Methods Lecture 1 - Introduction.md"
+    "Mobile Security/Package manifest not to be mistaken with the application manifest.md"
   ]
 }
